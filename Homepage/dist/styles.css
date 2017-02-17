@@ -5447,3 +5447,5 @@ button.close {
     display: none !important; } }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
+body {
+  background-color: #f2f2f2; }
