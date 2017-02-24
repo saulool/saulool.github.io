@@ -17159,7 +17159,7 @@ var fetchCandidates = function () {
 				switch (_context.prev = _context.next) {
 					case 0:
 						_context.next = 2;
-						return _axios2.default.get('https://randomuser.me/api/?results=10');
+						return _axios2.default.get('https://randomuser.me/api/?results=1000');
 
 					case 2:
 						candidatesRequest = _context.sent;
